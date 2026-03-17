@@ -1,0 +1,32 @@
+{
+  "name": "agentic-cpq-platform",
+  "version": "1.0.0",
+  "description": "Prodapt Agentic CPQ Platform — Build-to-Assure for enterprise SD-WAN with AI agents, graph ontology, and digital twin",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.1.0"
+  },
+  "keywords": [
+    "cpq",
+    "sdwan",
+    "telecom",
+    "agentic-ai",
+    "digital-twin",
+    "graph-ontology",
+    "mcp",
+    "prodapt"
+  ],
+  "author": "Prodapt Solutions",
+  "license": "UNLICENSED"
+}
